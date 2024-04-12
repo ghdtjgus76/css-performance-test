@@ -1,0 +1,10 @@
+.main {
+  background-color: lightblue;
+  padding: 20px;
+}
+
+.text {
+  color: blue;
+  font-size: 24px;
+  font-weight: 500;
+}
